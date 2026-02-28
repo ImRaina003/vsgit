@@ -23,8 +23,8 @@ namespace gitwpf
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("lets make changes ");
-            MessageBox.Show("hello world 2");
+            MessageBox.Show("new branch ");
+           
         }
     }
 }
